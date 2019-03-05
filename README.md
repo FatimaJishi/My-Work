@@ -1,4 +1,5 @@
- void sort(int arr[]) 
+Insertion Sort
+void sort(int arr[]) 
     { 
         int n = arr.length; 
         for (int i=1; i<n; ++i) 
